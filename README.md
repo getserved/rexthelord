@@ -1,6 +1,25 @@
-# myweb
+# rexthelord
 
-> A Vue.js project
+> www.rexthelord.com is my personal website
+The design concept is inspired by the art of golden ratio, so users could view all the contents in a single page.
+You could find several sections. Each of them is part of the works I've done or a experiment that I'm intested in.
+All the features and experiments will be continuously developed and updated.
+
+> Animations
+>> Particle animations
+>> SVG Paths Animations
+
+> Boardgames Assistant
+>> Codenames
+
+> Video Controll experiment
+>> Looping Video controller
+
+> CV Editor
+
+> Jobs
+
+
 
 ## Build Setup
 
@@ -23,5 +42,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
