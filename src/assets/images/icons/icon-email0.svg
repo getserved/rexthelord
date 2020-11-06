@@ -1,0 +1,15 @@
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M30.3710956,7 C30.5594797,7.34314661 30.6666198,7.73721324 30.6666198,8.15630378 L30.6666198,22.5937577 C30.6666198,23.9226886 29.5893085,25 28.2603775,25 L3.73962248,25 C2.41069155,25 1.33338017,23.9226886 1.33338017,22.5937577 L1.33338017,8.15630378 C1.33338017,7.73721324 1.44052029,7.34314661 1.62890444,7 L13.8343819,16.1541081 C15.1177112,17.116605 16.8822888,17.116605 18.1656181,16.1541081 L30.3710956,7 Z M28.0137098,7 L16.7083061,15.4790528 C16.2805297,15.7998851 15.6923371,15.7998851 15.2645607,15.4790528 L3.9862902,7.02034992 C4.08917805,7.00692516 4.1941089,7 4.30065721,7 L28.0137098,7 Z" id="email-path-1"></path>
+    </defs>
+    <g id="icons/email" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="32x32-rectangle-to-keep-AR" x="0" y="0" width="32" height="32"></rect>
+        <mask id="email-mask-2" fill="white">
+            <use xlink:href="#email-path-1"></use>
+        </mask>
+        <g id="Combined-Shape"></g>
+        <g id="colours/furniture/dark-grey" mask="url(#email-mask-2)" fill="#FFFFFF">
+            <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

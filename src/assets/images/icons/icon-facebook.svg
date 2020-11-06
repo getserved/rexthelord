@@ -1,0 +1,16 @@
+
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M18.1678053,30 L18.1678053,17.2279596 L22.4548512,17.2279596 L23.096697,12.2503796 L18.1678053,12.2503796 L18.1678053,9.07241465 C18.1678053,7.63128906 18.5679395,6.64924266 20.6345991,6.64924266 L23.2704427,6.64800692 L23.2704427,2.1961127 C22.8143293,2.1355612 21.2498764,2 19.4296243,2 C15.6293383,2 13.0276012,4.31961657 13.0276012,8.57959962 L13.0276012,12.2503796 L8.72955725,12.2503796 L8.72955725,17.2279596 L13.0276012,17.2279596 L13.0276012,30 L18.1678053,30" id="facebook-path-1"></path>
+    </defs>
+    <g id="icons/facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="32x32-rectangle-to-keep-AR" x="0" y="0" width="32" height="32"></rect>
+        <mask id="facebook-mask-2" fill="white">
+            <use xlink:href="#facebook-path-1"></use>
+        </mask>
+        <g id="Mask"></g>
+        <g id="colours/furniture/dark-grey" mask="url(#facebook-mask-2)" fill="#FFFFFF">
+            <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>

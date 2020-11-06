@@ -1,0 +1,7 @@
+@function pxToRem($pixels: 16, $font: 16) {
+	@return #{$pixels / $font}rem;
+}
+
+$color-red: #AB3B3A;
+$color-blue: #005CAF;
+$color-black: #1C1C1C;
